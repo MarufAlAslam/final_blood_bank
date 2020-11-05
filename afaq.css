@@ -1,0 +1,36 @@
+body{
+    background-image: url("afaq.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.answer_faq{
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    width: 60%;
+}
+.faqq{
+height: 40px;
+width: 69%;
+}
+
+.qmail{
+    margin-top: 5px;
+    height: 25px;
+width: 40%;
+}
+.qid
+{
+    margin-top: 5px;
+    height: 25px;
+width: 20%; 
+}
+.submit{
+    margin-top: 5px;
+    background-color: chartreuse;
+    font-size: 20px;
+    height: 40px;
+    width: 69%;
+}

@@ -1,0 +1,184 @@
+body{
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.welcome h1{
+    text-align: center;
+    background-color: green;
+    font-family: 'Lucida Sans';
+}
+.navigation{
+    background-color: darkcyan;
+    font-size: 30px;
+    text-decoration: none;
+    font-style: italic;
+}
+a{
+    color: black;
+}
+
+
+
+
+.dropbtn {
+    background-color:transparent;
+    color: black;
+    font-style: italic;
+    font-size: 30px;
+    border: none;
+}
+
+.dropdown {
+    position: static;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:rgb(58, 122, 101);
+    color: black;
+    font-size: 15px;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: yellow;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+.read{
+    background-image: url("gallery/glry (31).jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: inline-flex;
+    width: 100%;
+}
+
+.a1{
+    background-color:khaki;
+    border-radius: 20px;
+    width: 50%;
+    margin-right: 20px;
+    padding:10px;
+}
+
+.a2{
+    background-color: lightgreen;
+    border-radius: 20px;
+    width: 50%;
+    margin-right: 20px;
+    padding:10px;
+}
+
+
+.donate{
+    font-size: 20px;
+}
+
+.form1{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.form1 input{
+    font-size: 20px;
+}
+
+.sbmtbtn{
+    background-color:red;
+    height: 50px;
+    color: black;
+    width: 600px;;
+    font-family: Verdana;
+}
+
+.sbmtbtn{
+    float: right;
+    margin-right: 10px;
+}
+
+.faq{
+    border-radius: 20px;
+    width: 100%;
+    height: 90%;
+    opacity:0.7;
+    
+}
+.faq label{
+    padding: 10px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+.faqq{
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 50px;
+    width: 97%;
+    font-size: 25px;
+    opacity: 0.7;
+}
+.question{
+    background-image: url("icons/1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+   
+}
+
+
+a:hover {
+  background-color: white;
+  border:1px dashed #3e8e41;
+}
+
+
+.faqdiv{
+    font-family: 'Lucida Sans';
+    font-size: 30px;
+    text-align: center;
+    background-color: black;
+}
+
+.qname{
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 30px;
+    font-size: 15px;
+    opacity: 0.7;
+}
+.qmail{
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 30px;
+    font-size: 15px;
+    opacity: 0.7;
+    width:383px;
+}
+.submit{
+    height: 30px;
+    width: 90%;
+    background-color:chartreuse; 
+}
+
+.about h2{
+    background-color: rgb(135, 180, 222);
+}

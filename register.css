@@ -1,0 +1,29 @@
+body{
+    background-image: url("back_register.jpg");
+}
+label{
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+}
+
+.form_reg{
+    margin: auto;
+    background-color: aquamarine;
+    width:450px;
+    margin-top: 50px;
+    border: dashed 2px black;
+    border-radius: 20px;
+    opacity: .6;
+}
+
+.hh3{
+    background-color: aquamarine;
+    color:red;
+}
+
+.form_reg .labels{
+    opacity: 1;
+    height: 20px;
+}
+
+

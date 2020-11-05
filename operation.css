@@ -1,0 +1,10 @@
+body{
+    background-color: blanchedalmond;
+    background-repeat: round;
+}
+.operations{
+    display: inline-flex;
+    background-color: aquamarine;
+    width:960px;
+    height: 20%;
+}

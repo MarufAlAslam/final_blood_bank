@@ -1,0 +1,18 @@
+body{
+    background-image: url("user_compose.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.composer{
+    width: 40%;
+    background-color: aquamarine;
+    border: yellowgreen 3px dotted;
+    font-size: 20px;
+}
+
+.msg{
+    height: 60px;
+}
+.username{
+    height: 20px;
+}

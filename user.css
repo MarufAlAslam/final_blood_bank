@@ -1,0 +1,17 @@
+body{
+    background-image: url("user.jpg");
+}
+.login{
+    margin-left: 500px;
+    background-color: aquamarine;
+    height: 250px;
+    width:450px;
+    margin-top: 200px;
+    border: dashed 2px black;
+    border-radius: 20px;
+    opacity: .6;
+    font-size: 20px;
+}
+.login_form{
+
+}

@@ -1,0 +1,14 @@
+body{
+    background-image: url("profile.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.update th{
+font-size: 20px;
+}
+table{
+    text-align: left;
+}
+
+
+
